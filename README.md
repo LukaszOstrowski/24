@@ -1,1 +1,1 @@
-# 24
+# 24  cos tu zmieniam zeby sprawdzic czy git status dziala
