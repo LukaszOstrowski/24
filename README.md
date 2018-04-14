@@ -1,2 +1,2 @@
 # 24  cos tu zmieniam zeby sprawdzic czy git status dziala
-kolejne zmiany
+dodaje jakis tekst (zad6), kolejne zmiany(zad5)
